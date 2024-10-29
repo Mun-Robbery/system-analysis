@@ -1,6 +1,6 @@
 import pandas as pd
 
-class main():
+def main():
 
     name, n, m = input().split()
 
